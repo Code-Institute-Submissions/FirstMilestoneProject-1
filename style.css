@@ -3,3 +3,31 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script:100,200,300,400,500,600,700|Tangerine:100,200,300,400,500,600,700');
 
 
+.bg-custom {
+    background-color: #500461; 
+}
+
+
+/*--------- bootstrap css --------- */
+
+body {
+    background-color: #080536;
+  padding-top: 5rem;
+  
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.nav {
+    padding-bottom: 0;
+}
+.carousel  {
+    height: 400px;
+    padding: 0;
+}
+
+.carousel-item {
+    height: 400px;
+}
