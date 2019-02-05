@@ -34,17 +34,29 @@ body {
 }
  
 
+/*---- main heading -----*/
 
-/*---- heading -----*/
 h1 {
-    font-family: 'Calligraffitti', sans-serif;
+    
     Font-weight: 400;
     color: #DECDCC;
     text-align: center;
-    margin-top: 20px;
-    padding-top: 5px;
+    margin: 20px;
+    padding-top: 15px;
+    padding-bottom: 5px;
     font-size:6vw;
     
+}
+
+/*---- headings -----*/
+
+.heading-font {
+    font-family: 'Calligraffitti', sans-serif;
+}
+
+.small-heading {
+    margin: 5px;
+    padding-top: 10px;
 }
 
 /*----- text color  -----*/
@@ -63,7 +75,7 @@ h1 {
     text-align: center;
 }
 
-/*----- Front page articles  -----*/
+/*----- Index page articles  -----*/
 
 .fp-image {
     border-radius: 50%;
@@ -72,7 +84,22 @@ h1 {
     display: block;
   margin-left: auto;
   margin-right: auto;
-    
+  
+  }
+
+/*----- Meet the character articles  -----*/
+ 
+main {
+      background-color: #080536;
 }
+.mtc-text {
+    font-size: 3vw;
+}
+
+.mtc-article {
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
 
 
