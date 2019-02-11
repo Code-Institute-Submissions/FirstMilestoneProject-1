@@ -2,17 +2,18 @@
 
 
 /*---- custom navbar color ----*/
+
 .bg-custom {
-    background-color: #500461; 
+    background-color: #500461;
 }
 
- 
+
 /*--------- bootstrap css for navbar --------- */
 
 body {
     background-color: #080536;
-  padding-top: 3rem;
-  
+    padding-top: 3rem;
+
 }
 
 .nav {
@@ -21,10 +22,9 @@ body {
 
 /*--------- My Carousel --------- */
 
-
 .carousel {
-    padding-left:0;
-    padding-right:0;
+    padding-left: 0;
+    padding-right: 0;
     max-height: 500px;
 
 }
@@ -32,20 +32,20 @@ body {
 .carousel-item {
     max-height: 500px;
 }
- 
+
 
 /*---- main heading -----*/
 
 h1 {
-    
+
     Font-weight: 400;
     color: #DECDCC;
     text-align: center;
     margin: 20px;
     padding-top: 15px;
     padding-bottom: 5px;
-    font-size:6vw;
-    
+    font-size: 6vw;
+
 }
 
 /*---- headings -----*/
@@ -54,10 +54,12 @@ h1 {
     font-family: 'Calligraffitti', sans-serif;
 }
 
-.small-heading {
+.text-styling {
     margin: 5px;
-    padding-top: 10px;
+    text-align: center;
 }
+
+
 
 /*----- text color  -----*/
 
@@ -82,16 +84,70 @@ h1 {
     height: 150px;
     width: 150px;
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  
-  }
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.about-image {
+    display: block;
+    max-height: 400px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+
+.jkr-image {
+    display: block;
+    max-height: 400px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+.about-box {
+    border-radius: 25px;
+    background-color: #09423A;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.jkr-box {
+    border-radius: 25px;
+    background-color: #09423A;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
 
 /*----- Meet the character articles  -----*/
- 
-main {
-      background-color: #080536;
+
+div.gallery {
+    border: 1px solid #ccc;
 }
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+
+}
+
+.character1 {
+    padding-top: 30px;
+}
+
+
+
 .mtc-text {
     font-size: 3vw;
 }
@@ -102,25 +158,24 @@ main {
 }
 
 /*----- Contact page  -----*/
-.font-colour {
+
+.social-links {
     color: #DECDCC;
 }
 
+.icon {
+    display: inline-block;
+    text-align: center;
+}
 
+.contact-header {
+    margin: 20px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
 
+/*----- footer  -----*/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.footer {
+    background-color: #500461;
+}

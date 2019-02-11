@@ -1,20 +1,30 @@
 ucd_milestoneproject - My First Milestone Project. 
  
-For this project I have decided to create a fan page for the Harry Potter book and film series. I have read the books several (or more) times so
-I feel able to put together an exciting and userfriendly front end site. On the home page will be a general 'about' page and 
-a little information about the series. I will also have a page for 'meet the characters' where pictures and information about various characters will be. A page for the author of the book
-series with images and a 'Fan Media' page with videos relating to the series. Finally, I will have a 'Contact' page which will detail links to various social media accounts that realte
-to harry potter and also a contact form for those who wish to send a message. 
+#Milestone Project - User-Centric Frontend Development 
+
+The brief for this Milestone project was to create a website for a band (The Monkees), which is to include pictures, video and audio clips, a contact page and links to social media. 
+
+I decided to not use the given idea and build a website based around Harry Potter. Owing to it being my first project I wanted to build something I felt comfortable with which, then, in turn would provide a better websitie and UX. 
+
+
+
+
 
 -----------
 
 
 UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+This website is for Fans of Harry Potter. I would like to encorporate both information from the books and films so they are housed in one place. Also, being able to find videos of attractions relating to the series will all help create an 'all in one' user experience. 
+
+I am a Harry Potter fan, I would like to find pictures from the films and fan art, I would also like to see Videos of attractions to see whether I would like to visit. I want to visit a website that will give me this information
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
 As a user type, I want to perform an action, so that I can achieve a goal.
+
+
+
+
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 Features
