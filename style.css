@@ -142,14 +142,16 @@ div.gallery img {
 
 }
 
-.character1 {
-    padding-top: 30px;
+.characters {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
-
-
-.mtc-text {
-    font-size: 3vw;
+.mtc-intro {
+    display: block;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .mtc-article {
@@ -161,10 +163,11 @@ div.gallery img {
 
 .social-links {
     color: #DECDCC;
+    text-align: center;
 }
 
 .icon {
-    display: inline-block;
+    display: block;
     text-align: center;
 }
 
@@ -172,6 +175,10 @@ div.gallery img {
     margin: 20px;
     padding-top: 15px;
     padding-bottom: 5px;
+}
+
+label {
+    color: #DECDCC;
 }
 
 /*----- Media page -----*/
