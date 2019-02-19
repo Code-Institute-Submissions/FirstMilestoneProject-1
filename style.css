@@ -107,23 +107,6 @@ h1 {
     padding-top: 50px;
 }
 
-.about-box {
-    border-radius: 25px;
-    background-color: #09423A;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    padding-top: 10px;
-    padding-bottom: 20px;
-}
-
-.jkr-box {
-    border-radius: 25px;
-    background-color: #09423A;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    padding-top: 10px;
-    padding-bottom: 20px;
-}
 
 
 /*----- Meet the character articles  -----*/
@@ -150,12 +133,12 @@ div.gallery img {
 
     display: block;
     text-align: center;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 
 .mtc-article {
-    margin-top: 20px;
+    margin-top: 10px;
     padding-top: 10px;
 }
 
@@ -181,16 +164,16 @@ label {
     color: #DECDCC;
 }
 
-/*----- Media page -----*/
+/*----- Audibooks -----*/
 
 .audio-content {
     margin-bottom: 40px;
 }
 
 h3 {
-  font-size: 18px;
-  text-align: center;
- 
+    font-size: 18px;
+    text-align: center;
+
 }
 
 audio {
@@ -198,6 +181,10 @@ audio {
     width: 350px;
 }
 
+.img-styling {
+    max-height: 250px;
+    max-width: 175px;
+}
 
 /*----- Attractions page  -----*/
 
@@ -206,13 +193,13 @@ audio {
     margin: 5px;
     padding-top: 25px;
     padding-bottom: 5px;
-} 
+}
 
 .attraction-article {
     text-align: center;
     padding-top: 10px;
     padding-bottom: 30px;
-    
+
 }
 
 .video1 {
@@ -225,6 +212,8 @@ audio {
 
 /*----- footer  -----*/
 
-footer {
+.footer {
     background-color: #500461;
-    margin-top: 40px;
+}
+    
+
