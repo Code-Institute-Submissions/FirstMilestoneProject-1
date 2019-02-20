@@ -203,11 +203,31 @@ audio {
 }
 
 .video1 {
-    padding-right: 25px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
 
 .video2 {
-    padding-left: 25px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+/*----- making videos responsive, code snippet taken from avexdesigns.com -----*/
+
+.video-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
 }
 
 /*----- footer  -----*/
