@@ -1,79 +1,34 @@
-ucd_milestoneproject - My First Milestone Project. 
- 
-#Milestone Project - User-Centric Frontend Development 
-
+#Milestone Project: User-Centric Frontend Development (HTML5 / CSS3)
 The scope for the first project was to create a website for a band (The Monkees) and to include various media elements such as pictures, audio, and video, as well as a contact page and links to various social media pages.
 
 I decided to go outside of the breif and create a fan site for Harry Potter. Oweing to this being my first project I decided to go with a theme which I felt I could deliver better than the proposed idea. 
 
+-----
+##UX
+This site has been designed to give brief overview of Harry Potter. Harry Potter is a huge subject to cover but I believe I have managed to structure the site to contain enough information to various users. It touches on various aspects, from videos of attaractions, character information and audibook links. The site services the following user types:
 
+-Users that have no previous knowledge of the characters that are looking to understand what the series is all about and get in touch
 
------------
+-Users with some general knowledge of  book series, but looking for more information on the attractions are available.
 
+-Users familiar with the book series but that perhabs struggle to read or have no interest in reading so can find links to audiobooks.
 
-UX
-This website is for Fans of Harry Potter. I would like to encorporate both information from the books and films so they are housed in one place. Also, being able to find videos of attractions relating to the series will all help create an 'all in one' user experience. 
+Adobe XD was used to create wireframes for each of the pages both in Desktop and Mobile formats.
 
-I am a Harry Potter fan, I would like to find pictures from the films and fan art, I would also like to see Videos of attractions to see whether I would like to visit. I want to visit a website that will give me this information
+##Features
+The following is a summary of the features already in place and those that could perhaps be implemented in the future.
+###Existing Features
+All images on the 'meet the characters' page are hyperlinks to their full-sized versions and open in new tabs.
+This allows users to get more detail from any image rather than relying on the smaller versions in the site. 
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+YouTube videos and Audiobook samples are directly embedded in the site.
+Users can watch videos from attractions and listen to samples from eight audiobooks without the need to leave the site.
 
-As a user type, I want to perform an action, so that I can achieve a goal.
+the 'contact' page contains externals links to other related sites.
+This allows users to access more information on the Harry Potter series merchandise, and the social media pages for J K Rowling, Pottermore and Official UK Harry Potter facebook. 
 
+Contact form validates that information has been entered into each field in the expected format before allowing submission.
+This prevents users from accidentally attempting to submit blank or otherwise incomplete contact information.
 
-
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+###Features to consider for future implementation.
+Contact form information isn’t saved or emailed to any location, this was outside the scope of this project.
