@@ -75,11 +75,14 @@ Local deployment is not required.
 
 ## Content
 Text content on all pages was copied and/or amended from the following sites:
-pottermore.com
-https://harrypotter.fandom.com/wiki/Main_Page
-Wikipedia
-amazon.com
+<ul>
+<li>pottermore.com</li>
+<li>https://harrypotter.fandom.com/wiki/Main_Page</li>
+<li>Wikipedia</li>
+<li>amazon.com</li>
+
 Videos courtesy of YouTube and audiobook samples from Audible.co.uk.
-Acknowledgements
+
+### Acknowledgements
 My Mentor Maranatha and Tim for all of their help!
 
