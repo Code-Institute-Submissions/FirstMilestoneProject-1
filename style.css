@@ -184,6 +184,18 @@ audio {
 .img-styling {
     max-height: 250px;
     max-width: 175px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 10px;
+}
+
+
+
+.audiobook-styling {
+    padding-top: 25px;
+    padding-bottom: 20px;
 }
 
 /*----- Attractions page  -----*/
