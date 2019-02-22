@@ -2,11 +2,9 @@ ucd_milestoneproject - My First Milestone Project.
  
 #Milestone Project - User-Centric Frontend Development 
 
-The brief for this Milestone project was to create a website for a band (The Monkees), which is to include pictures, video and audio clips, a contact page and links to social media. 
+The scope for the first project was to create a website for a band (The Monkees) and to include various media elements such as pictures, audio, and video, as well as a contact page and links to various social media pages.
 
-I decided to not use the given idea and build a website based around Harry Potter. Owing to it being my first project I wanted to build something I felt comfortable with which, then, in turn would provide a better websitie and UX. 
-
-
+I decided to go outside of the breif and create a fan site for Harry Potter. Oweing to this being my first project I decided to go with a theme which I felt I could deliver better than the proposed idea. 
 
 
 
