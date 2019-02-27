@@ -8,12 +8,14 @@ I decided to go outside of the breif and create a fan site for Harry Potter. Owe
 ## UX
 This site has been designed to give brief overview of Harry Potter. Harry Potter is a huge subject to cover but I believe I have managed to structure the site to contain enough information to various users. It touches on various aspects, from videos of attaractions, character information and audibook links. The site services the following user types:
 
--Users that have no previous knowledge of the characters that are looking to understand what the series is all about and get in touch
+<ul>
+<li>Users that have no previous knowledge of the characters that are looking to understand what the series is all about and get in touch</li>
 
--Users with some general knowledge of  book series, but looking for more information on the attractions are available.
+<li>Users with some general knowledge of  book series, but looking for more information on the attractions are available.</li>
 
--Users familiar with the book series but that perhabs struggle to read or have no interest in reading so can find links to audiobooks.
-
+<li>Users familiar with the book series but that perhabs struggle to read or have no interest in reading so can find links to audiobooks.</li>
+</ul>
+<br>
 Adobe XD was used to create wireframes for each of the pages both in Desktop and Mobile formats.
 
 -----
@@ -80,7 +82,8 @@ Text content on all pages was copied and/or amended from the following sites:
 <li>https://harrypotter.fandom.com/wiki/Main_Page</li>
 <li>Wikipedia</li>
 <li>amazon.com</li>
-
+</ul>
+<br>
 Videos courtesy of YouTube and audiobook samples from Audible.co.uk.
 
 ### Acknowledgements
