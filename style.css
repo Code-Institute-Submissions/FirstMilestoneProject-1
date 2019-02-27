@@ -44,9 +44,10 @@ h1 {
     margin: 20px;
     padding-top: 15px;
     padding-bottom: 5px;
-    font-size: 6vw;
 
 }
+ 
+
 
 /*---- headings -----*/
 
@@ -59,7 +60,19 @@ h1 {
     text-align: center;
 }
 
+.about-image {
+    border-radius: 100px;
+    display: block;
+    max-height: 400px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
 
+.main-heading {
+    padding-bottom: 30px;
+}
 
 /*----- text color  -----*/
 
@@ -79,34 +92,23 @@ h1 {
 
 /*----- Index page articles  -----*/
 
-.fp-image {
-    border-radius: 50%;
-    height: 150px;
-    width: 150px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 
-.about-image {
+
+
+.jkr-img {
     display: block;
     max-height: 400px;
     max-width: 300px;
     margin-left: auto;
     margin-right: auto;
     padding-top: 30px;
+    padding-bottom: 300px;
 }
 
-.jkr-image {
-    display: block;
-    max-height: 400px;
-    max-width: 300px;
-    margin-left: auto;
-    margin-right: auto;
+.jkr-bio {
     padding-top: 50px;
 }
-
 
 
 /*----- Meet the character articles  -----*/
