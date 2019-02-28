@@ -65,7 +65,7 @@ Used for heading fonts on site.
 -----
 
 ## Deployment
-The site has been deployed using GitHub Pages and is available to review here:
+The site has been deployed using GitHub Pages and is available to review here: https://elizabethd123.github.io/FirstMilestoneProject/
 
 Local deployment is not required.
 
@@ -73,10 +73,20 @@ Local deployment is not required.
 
 ## Testing
 
+Images:
+I have tested all images throughout the site and all images open in a new page when clicked.
+
+
+
+
+Contact form:
+Contact form will show error message if fields  left empty.
+Contact form cannot be submitted unless email is a valid email address.
+
 -----
 
 ## Content
-Text content on all pages was copied and/or amended from the following sites:
+Text content and Images on all pages was copied and/or amended from the following sites:
 <ul>
 <li>pottermore.com</li>
 <li>https://harrypotter.fandom.com/wiki/Main_Page</li>
@@ -86,6 +96,7 @@ Text content on all pages was copied and/or amended from the following sites:
 </ul>
 <br>
 Videos courtesy of YouTube and audiobook samples from Audible.co.uk.
+
 
 ### Acknowledgements
 My Mentor Maranatha and Tim for all of their help!
