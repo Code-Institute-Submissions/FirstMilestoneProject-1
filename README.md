@@ -1,5 +1,5 @@
 # Milestone Project: User-Centric Frontend Development (HTML5 / CSS3)
-The scope for the first project was to create a website for a band (The Monkees) and to include various media elements such as pictures, audio, and video, as well as a contact page and links to various social media pages.
+This project is purely for educational purposes. The scope for the first project was to create a website for a band (The Monkees) and to include various media elements such as pictures, audio, and video, as well as a contact page and links to various social media pages.
 
 I decided to go outside of the breif and create a fan site for Harry Potter. Oweing to this being my first project I decided to go with a theme which I felt I could deliver better than the proposed idea. 
 
@@ -82,6 +82,7 @@ Text content on all pages was copied and/or amended from the following sites:
 <li>https://harrypotter.fandom.com/wiki/Main_Page</li>
 <li>Wikipedia</li>
 <li>amazon.com</li>
+<li>www.bloomsbury.com/uk<li>
 </ul>
 <br>
 Videos courtesy of YouTube and audiobook samples from Audible.co.uk.
