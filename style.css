@@ -144,29 +144,8 @@ div.gallery img {
     padding-top: 10px;
 }
 
-/*----- Contact page  -----*/
 
-.social-links {
-    color: #DECDCC;
-    text-align: center;
-}
-
-.icon {
-    display: block;
-    text-align: center;
-}
-
-.contact-header {
-    margin: 20px;
-    padding-top: 15px;
-    padding-bottom: 5px;
-}
-
-label {
-    color: #DECDCC;
-}
-
-/*----- Audibooks -----*/
+/*----- Audiobooks -----*/
 
 .audio-content {
     margin-bottom: 40px;
@@ -249,10 +228,40 @@ width: 100%;
 height: 100%;
 }
 
+
+/*----- Contact page  -----*/
+
+.social-links {
+    color: #DECDCC;
+    text-align: center;
+}
+
+.icon {
+    display: block;
+    text-align: center;
+}
+
+.contact-header {
+    margin: 20px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+label {
+    color: #DECDCC;
+}
+
+button {
+    padding-bottom: 10px;
+}
+
+.button-text {
+    padding-top: 10px;
+}
+
 /*----- footer  -----*/
 
 .footer {
     background-color: #500461;
 }
     
-
