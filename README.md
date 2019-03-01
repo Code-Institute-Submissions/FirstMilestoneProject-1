@@ -73,17 +73,19 @@ Local deployment is not required.
 
 ## Testing
 
-Images:
-I have tested all images throughout the site and all images open in a new page when clicked.
+### Test Matrix
+I created a testing matrix in Excel. It outlines the various tests I made to ensure the the site is responsive to different device sizes, renders correctly and functioanlity is operational. 
 
-Audibooks:
+### Compatability
+The site has been tested on the below browsers for compatability and responsiveness. 
 
+Chrome
+Edge
+Firefox
+Safari
+Internet Explorer
 
-
-Contact form:
-Contact form will show error message if fields  left empty.
-Contact form cannot be submitted unless email is a valid email address.
-
+NOTED ISSUES
 -----
 
 ## Content
