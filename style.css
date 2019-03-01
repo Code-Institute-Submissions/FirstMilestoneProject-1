@@ -259,6 +259,10 @@ button {
     padding-top: 10px;
 }
 
+.socialhover:hover {
+    background-color: #500461;
+}
+
 /*----- footer  -----*/
 
 .footer {
