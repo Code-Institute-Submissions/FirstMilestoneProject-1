@@ -86,6 +86,9 @@ Safari
 Internet Explorer
 
 NOTED ISSUES
+
+Meet the Characters page has long load time.
+
 -----
 
 ## Content
