@@ -16,7 +16,7 @@ This site has been designed to give brief overview of Harry Potter. Harry Potter
 <li>Users familiar with the series but that perhaps struggle to read or have no interest in reading so can find links to audiobooks.</li>
 </ul>
 <br>
-Adobe XD was used to create wireframes for each of the pages both in Desktop and Mobile formats.
+Adobe XD was used to create [wireframes](https://github.com/ElizabethD123/FirstMilestoneProject/tree/master/Wireframes) for each of the pages both in Desktop and Mobile formats.
 
 -----
 
@@ -76,19 +76,24 @@ Local deployment is not required.
 ### Test Matrix
 I created a testing matrix in Excel. It outlines the various tests I made to ensure the the site is responsive to different device sizes, renders correctly and functioanlity is operational. 
 
+Link to [test matrix](https://github.com/ElizabethD123/FirstMilestoneProject/blob/master/testing.xlsx)
+
 ### Compatability
 The site has been tested on the below browsers for compatability and responsiveness. 
 
-Chrome
-Edge
-Firefox
-Safari
-Internet Explorer
+<ul>
+<li>Chrome<li>
+<li>Firefox<li>
+<li>Safari<li>
+<li>Internet Explorer<li>
+</ul>
 
 NOTED ISSUES
 
 IE: Doesn't support GRID, so the entire site breaks.
+
 Meet the Characters page has long load time.
+
 on EDGE the HTML5 audio tag numbers look small
 
 -----
