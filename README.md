@@ -87,7 +87,9 @@ Internet Explorer
 
 NOTED ISSUES
 
+IE: Doesn't support GRID, so the entire site breaks.
 Meet the Characters page has long load time.
+on EDGE the HTML5 audio tag numbers look small
 
 -----
 
