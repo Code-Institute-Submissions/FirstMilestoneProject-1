@@ -82,10 +82,10 @@ Link to [test matrix](https://github.com/ElizabethD123/FirstMilestoneProject/blo
 The site has been tested on the below browsers for compatability and responsiveness. 
 
 <ul>
-<li>Chrome<li>
-<li>Firefox<li>
-<li>Safari<li>
-<li>Internet Explorer<li>
+<li>Chrome
+<li>Firefox
+<li>Safari
+<li>Internet Explorer
 </ul>
 
 NOTED ISSUES
