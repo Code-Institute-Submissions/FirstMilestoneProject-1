@@ -76,7 +76,7 @@ Local deployment is not required.
 ### Test Matrix
 I created a testing matrix in Excel. It outlines the various tests I made to ensure the the site is responsive to different device sizes, renders correctly and functioanlity is operational. 
 
-Link to [test matrix](https://github.com/ElizabethD123/FirstMilestoneProject/blob/master/testing.xlsx)
+Link to [test matrix](https://github.com/ElizabethD123/FirstMilestoneProject/blob/master/Testing/testing.xlsx)
 
 ### Compatability
 The site has been tested on the below browsers for compatability and responsiveness. 
