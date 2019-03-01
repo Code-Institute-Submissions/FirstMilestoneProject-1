@@ -105,7 +105,7 @@ Text content and Images on all pages was copied and/or amended from the followin
 <li>https://harrypotter.fandom.com/wiki/Main_Page</li>
 <li>Wikipedia</li>
 <li>amazon.com</li>
-<li>www.bloomsbury.com/uk<li>
+<li>www.bloomsbury.com/uk
 </ul>
 <br>
 Videos courtesy of YouTube and audiobook samples from Audible.co.uk.
