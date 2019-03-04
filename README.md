@@ -82,10 +82,10 @@ Link to [test matrix](https://github.com/ElizabethD123/FirstMilestoneProject/blo
 The site has been tested on the below browsers for compatability and responsiveness. 
 
 <ul>
-<li>Chrome<li>
-<li>Firefox<li>
-<li>Safari<li>
-<li>Internet Explorer<li>
+<li>Chrome
+<li>Firefox
+<li>Safari
+<li>Internet Explorer
 </ul>
 
 NOTED ISSUES
@@ -105,7 +105,7 @@ Text content and Images on all pages was copied and/or amended from the followin
 <li>https://harrypotter.fandom.com/wiki/Main_Page</li>
 <li>Wikipedia</li>
 <li>amazon.com</li>
-<li>www.bloomsbury.com/uk<li>
+<li>www.bloomsbury.com/uk
 </ul>
 <br>
 Videos courtesy of YouTube and audiobook samples from Audible.co.uk.
